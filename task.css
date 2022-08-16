@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+    
+}
+.img_set{
+    background-image: task.jpg;
+    height: 100%;
+    width: 100%;
+}
